@@ -1,0 +1,14 @@
+node_modules
+.next
+
+
+
+pages/
+static/
+view/
+
+yarn.lock
+package-lock.json
+
+next-env.d.ts
+
